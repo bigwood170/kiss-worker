@@ -3,7 +3,7 @@ main = "src/index.js"
 compatibility_date = "2023-07-28"
 
 kv_namespaces = [
-    { binding = "KV", id = "01d3a47d26ca4732b4e6189b4d095ffe", preview_id = "01d3a47d26ca4732b4e6189b4d095ffe" }
+    { binding = "KV", id = "215d8f7bc46b4b0b9dfa8839393ad289", preview_id = "215d8f7bc46b4b0b9dfa8839393ad289" }
 ]
 
 [[durable_objects.bindings]]
